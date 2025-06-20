@@ -1,0 +1,43 @@
+\xpginauxfiletrue 
+\selectlanguage *{russian}
+\contentsline {chapter}{\introLabelUpper }{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {I}LaTeX: система вёрстки документов}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Введение в LaTeX}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Основные возможности LaTeX}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Синтаксис LaTeX}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Практическое использование LaTeX в работе над отчётом}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Среда разработки}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Установка LaTeX}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Преимущества такой среды}{7}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Заключение}{7}{subsection.1.4.4}%
+\contentsline {chapter}{\numberline {II}Работа с GitBranch}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}О платформе LearnGitBranching}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Ход работы}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Шаг 1}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Шаг 2}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Шаг 3}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Шаг 4}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Шаг 5}{10}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Шаг 6}{10}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Шаг 7}{11}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Шаг 8}{11}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Шаг 9}{12}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}Шаг 10}{12}{subsection.2.2.10}%
+\contentsline {subsection}{\numberline {2.2.11}Шаг 11}{13}{subsection.2.2.11}%
+\contentsline {subsection}{\numberline {2.2.12}Шаг 12}{14}{subsection.2.2.12}%
+\contentsline {subsection}{\numberline {2.2.13}Шаг 13}{14}{subsection.2.2.13}%
+\contentsline {subsection}{\numberline {2.2.14}Шаг 14}{15}{subsection.2.2.14}%
+\contentsline {subsection}{\numberline {2.2.15}Шаг 15}{15}{subsection.2.2.15}%
+\contentsline {subsection}{\numberline {2.2.16}Шаг 16}{16}{subsection.2.2.16}%
+\contentsline {subsection}{\numberline {2.2.17}Шаг 17}{16}{subsection.2.2.17}%
+\contentsline {subsection}{\numberline {2.2.18}Шаг 18}{17}{subsection.2.2.18}%
+\contentsline {subsection}{\numberline {2.2.19}Шаг 19}{17}{subsection.2.2.19}%
+\contentsline {subsection}{\numberline {2.2.20}Шаг 20}{18}{subsection.2.2.20}%
+\contentsline {subsection}{\numberline {2.2.21}Шаг 21}{19}{subsection.2.2.21}%
+\contentsline {subsection}{\numberline {2.2.22}Шаг 22}{19}{subsection.2.2.22}%
+\contentsline {subsection}{\numberline {2.2.23}Шаг 23}{20}{subsection.2.2.23}%
+\contentsline {subsection}{\numberline {2.2.24}Шаг 24}{20}{subsection.2.2.24}%
+\contentsline {subsection}{\numberline {2.2.25}Шаг 25}{21}{subsection.2.2.25}%
+\contentsline {subsection}{\numberline {2.2.26}Шаг 26}{22}{subsection.2.2.26}%
+\contentsline {chapter}{Заключительные выводы}{24}{chapter*.31}%
+\xpginauxfilefalse 
